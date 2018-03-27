@@ -1,0 +1,12 @@
+c:\users\hp\documents\visual studio 2013\Projects\Practice\Practice\bin\Debug\Practice.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\Practice\Practice\bin\Debug\Practice.exe
+c:\users\hp\documents\visual studio 2013\Projects\Practice\Practice\bin\Debug\Practice.pdb
+c:\users\hp\documents\visual studio 2013\Projects\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\Practice\Practice\obj\Debug\Practice.exe
+c:\users\hp\documents\visual studio 2013\Projects\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\Practice\c-_prctc\Practice\bin\Debug\Practice.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\Practice\c-_prctc\Practice\obj\Debug\Practice.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\Practice\c-_prctc\Practice\obj\Debug\Practice.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\Practice\c-_prctc\Practice\bin\Debug\Practice.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\Practice\c-_prctc\Practice\bin\Debug\Practice.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\Practice\c-_prctc\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
